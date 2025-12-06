@@ -1,0 +1,128 @@
+body {
+    font-family: sans-serif;
+    background-color: aqua;
+}
+
+header {
+    background-color: blue;
+    padding: 10px;
+    color: white;
+}
+
+header img {
+    padding-right:8px;
+}
+
+header a {
+    text-decoration: none;
+    color: red;
+    background-color: black;
+    padding: 8px;
+    margin-left: 8px;
+    
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    background-color: bisque;
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px dashed navy;
+    margin-right: 18px;
+}
+
+nav {
+    margin-top:15px;
+}
+
+main h1 {
+    text-align: center;
+    color: navy;
+    border: 1px solid brown;
+    border-radius: 10px;
+    background-color: bisque;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+main h2 {
+    color: purple;
+    background-color: aquamarine;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border: 5px dashed  red;
+    border-radius: 25px;
+    text-align: center;
+}
+
+.product {
+    color: blue;
+    background-color: cornflowerblue;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-bottom: 8px;
+    border: 3px dotted purple;
+    border-radius: 25px;
+}
+
+.seasonal {
+    color: navy;
+    background-color: azure;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+
+.seasonal i {
+    color: orange;
+}
+
+.contact {
+    text-decoration: none;
+    color: blueviolet;
+    background-color: honeydew;
+    padding: 5px 10px;
+    border-radius: 15px;
+    border: 1px dotted blueviolet
+    }
+
+    .buy {
+        background-color: aliceblue;
+        color: cadetblue;
+        padding: 15px;
+    }
+
+    .wholesale {
+        background-color: beige;
+        color: cadetblue;
+        padding: 15px;
+    }
+
+    .about {
+        background-color: antiquewhite;
+        color: darkblue;
+        padding: 15px;
+    }
+
+    .top a {
+        background-color: brown;
+        color: white;
+        padding: 8px 10px;
+        border-radius: 15px;
+        border: 1px solid orange;
+        text-decoration: none;
+        width: 90px;
+    }
+
+    footer {
+        background-color: blue;
+        padding: 15px;
+    }
+
+    footer p {
+        background-color: wihte;
+        color:  brown;
+        padding-top: 10px;
+        padding-left: 8px;
+    }
